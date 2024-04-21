@@ -50,6 +50,8 @@ int main()
 {
 	char command;
 
+	printf("[----- [강수빈] [2023078011] -----]\n");
+
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("               Infix to Postfix, then Evaluation               \n");

@@ -34,6 +34,8 @@ int main(void)
 	element data;   // element 타입 data 변수 생성
 	char command;  // char 자료형 command 변수 생성
 
+	 printf("[----- [강수빈] [2023078011] -----]\n");
+
 	do {
 		// 초기 프린트 내용
 		printf("\n-----------------------------------------------------\n");
